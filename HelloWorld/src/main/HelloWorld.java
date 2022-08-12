@@ -11,7 +11,7 @@ public class HelloWorld {
 	}
 	
 	@Test
-	public void test1() {
+	public void test() {
 		System.out.println("Hello World, I am Vince").
 	}
 }
