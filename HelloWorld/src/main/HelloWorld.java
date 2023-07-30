@@ -10,7 +10,7 @@ public class HelloWorld {
 	//System.out.println("hello, it's a new add version, from your dear vinceliao55");
 	@Test
 	public void main() {
-		System.out.println("Hello World, I am Ian Xie. it'a new branch. call name epod.");
+		System.out.println("Hello World, I am Ian Xie. it'a new branch. call name epod.change again.");
 	}
 	
 	@Test
